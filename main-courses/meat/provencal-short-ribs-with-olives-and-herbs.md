@@ -3,23 +3,23 @@ by Melissa Roberts Gourmet December 2011
 Makes 6 servings
 
 ## Ingredients
-o 1/3 cup all-purpose flour
-o Salt
-o Freshly ground black pepper
-o 5 pounds short ribs (not cross-cut flanken)
-o 4 tablespoons olive oil, divided
-o 2 medium red onions, cut into 1-inch pieces
-o 2 carrots, cut into 1/2-inch pieces
-o 1 celery rib, cut into 1/2-inch pieces
-o 3 large garlic cloves, chopped
-o 2 tablespoons chopped fresh rosemary
-o 1 tablespoon fresh thyme leaves
-o 2 cups full-bodied red wine, such as Côtes du Rhône or Bordeaux
-o 2 cups low-sodium chicken broth
-o 1 (15-ounce) can whole peeled tomatoes in juice
-o 3/4 cup balsamic vinegar
-o 2/3 cup (3 1/2 ounces) pitted kalamata olives, rinsed and patted dry
-o 1 navel orange
+- 1/3 cup all-purpose flour
+- Salt
+- Freshly ground black pepper
+- 5 pounds short ribs (not cross-cut flanken)
+- 4 tablespoons olive oil, divided
+- 2 medium red onions, cut into 1-inch pieces
+- 2 carrots, cut into 1/2-inch pieces
+- 1 celery rib, cut into 1/2-inch pieces
+- 3 large garlic cloves, chopped
+- 2 tablespoons chopped fresh rosemary
+- 1 tablespoon fresh thyme leaves
+- 2 cups full-bodied red wine, such as Côtes du Rhône or Bordeaux
+- 2 cups low-sodium chicken broth
+- 1 (15-ounce) can whole peeled tomatoes in juice
+- 3/4 cup balsamic vinegar
+- 2/3 cup (3 1/2 ounces) pitted kalamata olives, rinsed and patted dry
+- 1 navel orange
 
 ## Preparation
 1. Heat oven to 350°F with rack in lower third.
