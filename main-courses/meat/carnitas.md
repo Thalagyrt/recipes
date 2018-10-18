@@ -2,23 +2,23 @@
 
 ## Ingredients
 ### in the slow cooker
-4 lb pork shoulder, salted and peppered
-1 onion, chopped
-1 serrano pepper, deseeded, chopped
-4 cloves garlic, minced
-2 oranges
+- 4 lb pork shoulder, salted and peppered
+- 1 onion, chopped
+- 1 serrano pepper, deseeded, chopped
+- 4 cloves garlic, minced
+- 2 oranges
 ### rub (in addition to salt and pepper)
-1tbsp dried oregano
-2 tsp cayenne pepper
-3 tsp ground cumin
-1 tbsp olive oil
+- 1 tbsp dried oregano
+- 2 tsp cayenne pepper
+- 3 tsp ground cumin
+- 1 tbsp olive oil
 
 ### tacos
-black beans (canned)
-pico de gallo (onion, tomato, jalapeno or serrano)
-avocados
-cojita cheese
-corn tortillas
+- black beans (canned)
+- pico de gallo (onion, tomato, jalapeno or serrano)
+- avocados
+- cojita cheese
+- corn tortillas
 
 ## Directions
 Rinse and dry your pork shoulder
