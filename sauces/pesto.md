@@ -1,11 +1,11 @@
 # Fresh Pesto
 
 ## INGREDIENTS
-2 cups packed fresh basil leaves
-2 large garlic cloves
-1/2 cup pine nuts (toasted if desired)
-3/4 cup freshly grated parmesan
-2/3 cup olive oil
+- 2 cups packed fresh basil leaves
+- 2 large garlic cloves
+- 1/2 cup pine nuts (toasted if desired)
+- 3/4 cup freshly grated parmesan
+- 2/3 cup olive oil
 
 ## Directions
 In food processor, finely chop garlic and pine nuts, then add basil leaves with a little oil. Process until smooth. Add parmesan and remaining oil.
