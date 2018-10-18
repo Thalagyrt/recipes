@@ -17,7 +17,7 @@
 - 2 tbsp. grated Parmesan cheese
 - 1/4 c. torn basil, for garnish
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 - Preheat oven to 350 degrees F. Grease a medium casserole dish and set aside.
 - Heat 2 tablespoons olive oil in large pot over medium heat. Sauté onion until soft. Add the garlic and cook until fragrant, about 30 seconds.
