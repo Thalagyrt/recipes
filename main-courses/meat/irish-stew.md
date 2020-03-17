@@ -15,7 +15,7 @@ Iterated on from https://www.theguardian.com/food/2019/jan/09/how-to-cook-perfec
 - 2 tbsp oil veg/olive
 - 3 large white/brown onions
 - 10ish floury spuds (look up what varieties are floury in America)
-- 500-600g Lean lamb/Beef chunks/dark beans(drained - black/kidney also add 100ml auqafaba for this) (Lamb is more traditional. Lamb necks are the most Beans are lyfe in a soup/stew though)
+- 500-600g Lean lamb/Beef chunks/dark beans(drained - black/kidney also add 100ml auqafaba for this) (Lamb is more traditional. Lamb necks are the most. Beans are lyfe in a soup/stew though)
 - Bitta flour to coat the meat (if you’re using meat)
 - 2 sprigs fresh thyme
 - 6 carrots (optional)
