@@ -1,4 +1,4 @@
-# Ingredients
+# Irish Stew
 
 Some people feel passionate about what should/shouldn’t go in it, but if you put whatever you damn want in it - it’s authentic. So I’ve labelled a few things optional, and given some options as well.
 
