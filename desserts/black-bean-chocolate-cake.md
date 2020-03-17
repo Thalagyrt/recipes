@@ -25,6 +25,6 @@ Adapted from [Hippie With A Minivan](http://ahippiewithaminivan.com/blog/black-b
 
 * Better after keeping overnight in an airtight container, otherwise can be a bit dry and crumbly
 * If you want to make it light with some fancy cake-making tricks:
-    1. Puree the beans with the egg yolks and add 1 tsp xanthan gum
+    1. Puree the beans with the egg yolks and mix in 1 tsp xanthan gum, plus remaining dry ingredients
     1. Cream the fat and sugar thoroughly and mix in the beans/yolks
     1. Whip the egg whites separately into a foam and fold it gently into the batter
