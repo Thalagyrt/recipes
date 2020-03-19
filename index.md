@@ -1,0 +1,40 @@
+* [black-bean-chocolate-cake](./black-bean-chocolate-cake.md)
+* appetizers
+  * [garlic-parmesan-chicken-tenders](./appetizers/garlic-parmesan-chicken-tenders.md)
+  * [bbq-honey-popcorn-chicken](./appetizers/bbq-honey-popcorn-chicken.md)
+  * [pesto-garlic-bread](./appetizers/pesto-garlic-bread.md)
+  * [pastry-pinwheels](./appetizers/pastry-pinwheels.md)
+  * [biscuit-roses](./appetizers/biscuit-roses.md)
+  * [camembert-rosemary-hedgehog-bread](./appetizers/camembert-rosemary-hedgehog-bread.md)
+  * [butter-chicken-eggrolls](./appetizers/butter-chicken-eggrolls.md)
+  * [cheesy-beer-bread](./appetizers/cheesy-beer-bread.md)
+* main-courses
+  * meat
+    * [lemon-herb-chicken](./main-courses/meat/lemon-herb-chicken.md)
+    * [salmon-marinade](./main-courses/meat/salmon-marinade.md)
+    * [beef-and-broccoli](./main-courses/meat/beef-and-broccoli.md)
+    * [slow-cooker-thai-curry](./main-courses/meat/slow-cooker-thai-curry.md)
+    * [beef-stir-fry](./main-courses/meat/beef-stir-fry.md)
+    * [provencal-short-ribs-with-olives-and-herbs](./main-courses/meat/provencal-short-ribs-with-olives-and-herbs.md)
+    * [sesame-chicken](./main-courses/meat/sesame-chicken.md)
+    * [carnitas](./main-courses/meat/carnitas.md)
+    * [tikka-masala](./main-courses/meat/tikka-masala.md)
+    * [crockpot-chicken-pot-pie](./main-courses/meat/crockpot-chicken-pot-pie.md)
+    * [irish-stew](./main-courses/meat/irish-stew.md)
+  * seafood
+    * [lemon-garlic-salmon](./main-courses/seafood/lemon-garlic-salmon.md)
+  * pasta
+    * [alfredo-sauce](./main-courses/pasta/alfredo-sauce.md)
+    * [four-cheese-stuffed-shells](./main-courses/pasta/four-cheese-stuffed-shells.md)
+    * [spinach-artichoke-stuffed-shells](./main-courses/pasta/spinach-artichoke-stuffed-shells.md)
+    * [sage-squash-pasta](./main-courses/pasta/sage-squash-pasta.md)
+    * [tomato-basil-creamy-tortellini](./main-courses/pasta/tomato-basil-creamy-tortellini.md)
+    * [chicken-cacciatore](./main-courses/pasta/chicken-cacciatore.md)
+    * [summer-vegetable-primavera](./main-courses/pasta/summer-vegetable-primavera.md)
+    * [baked-tortellini](./main-courses/pasta/baked-tortellini.md)
+* sauces
+  * [pesto](./sauces/pesto.md)
+* breakfast
+  * [yeasted-waffles](./breakfast/yeasted-waffles.md)
+  * [bacon-egg-cheese-hash](./breakfast/bacon-egg-cheese-hash.md)
+  * [scrambled-eggs](./breakfast/scrambled-eggs.md)
