@@ -1,5 +1,7 @@
 # Orange-Chocolate Scones
 
+![](../images/orange-chocolate-scone.jpeg)
+
 ## Ingredients
 
 * 2 tsp baking powder
