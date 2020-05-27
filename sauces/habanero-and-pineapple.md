@@ -2,14 +2,14 @@
 
 ## Equipment
 - food processor/blender
-- seive (optional)
+- sieve (optional)
 - storage bottle/jar(s) for finished product (produces 2.5 cups/600ml), filled with boiling water to sanitize
 - saucepan and heat source
 - spoon
 
 
 ## Ingredients
-    
+
    - 2 to 6 habaneros (depending on how hot you want it) - For bonus flavour ferment the habaneros in brine for at least a week, push them down beneath the water line with a ramekin or small bag filled with water - use non iodized salt.
    - 1 to 2 limes, juiced
    - 1 cup (240ml) white distilled vinegar
