@@ -1,5 +1,5 @@
 # Martha's Mac
-The core of this recipe originally comes from *[Martha Stewart Living Cookbook: The original Classics](https://smile.amazon.com/gp/product/0307393828)* by way of the [Smitten Kitchen](https://smittenkitchen.com/2008/05/marthas-macaroni-and-cheese/) blog. I've omitted the bread filler, halved the cheese sauce, and added a panko crust and green onion garnish ~~blatantly copied from~~ inspired by the San Francisco restaurant [Mac Daddy](https://macdaddysf.com).
+The core of this recipe originally comes from *[Martha Stewart Living Cookbook: The Original Classics](https://smile.amazon.com/gp/product/0307393828)* by way of the [Smitten Kitchen](https://smittenkitchen.com/2008/05/marthas-macaroni-and-cheese/) blog. I've omitted the bread filler, halved the cheese sauce, and added a panko crust and green onion garnish ~~blatantly copied from~~ inspired by the San Francisco restaurant [Mac Daddy](https://macdaddysf.com).
 
 ## Ingredients
 - 3 tablespoons salted butter
