@@ -25,6 +25,6 @@ The core of this recipe originally comes from *[Martha Stewart Living Cookbook: 
 - In a greased casserole dish, combine drained pasta with cheese sauce. Make sure all the pasta is nicely coated.
 - Cover the cheesy pasta mixture with the cheese you've reserved for crust.
 - Cover _that_ with the panko.
-- Bake the whole thing at 375 until golden brown, about half an hour.
+- Bake the whole thing at 375 degrees F until golden brown, about half an hour.
 - Let cool for a few minutes.
 - Serve, garnishing with the sliced green onions.
