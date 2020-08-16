@@ -17,11 +17,11 @@ The core of this recipe originally comes from *[Martha Stewart Living Cookbook: 
 ## Instructions
 - Cook pasta almost according to package directions, but take it off the heat a minute or two early. It'll finish cooking in the oven.
 - While the pasta is cooking, make a cheese sauce:
--- Melt butter in a high-sided skillet over medium heat.
--- Add flour, whisking constantly to combine fully. You have now made a white roux.
--- Still whisking: slowly add the milk, a little at a time, until you've overwhelmed the roux's ability to absorb moisture and your béchamel sauce has achieved the correct consistency.
--- Whisk in fresh-grated nutmeg, fresh-ground pepper, and cayenne pepper (use a light hand on the cayenne unless you're really trying for a spicy dish here) to taste.
--- Kill the heat. Dump in your huge pile of cheese you've grated yourself and whisk until fully combined.
+  - Melt butter in a high-sided skillet over medium heat.
+  - Add flour, whisking constantly to combine fully. You have now made a white roux.
+  - Still whisking: slowly add the milk, a little at a time, until you've overwhelmed the roux's ability to absorb moisture and your béchamel sauce has achieved the correct consistency.
+  - Whisk in fresh-grated nutmeg, fresh-ground pepper, and cayenne pepper (use a light hand on the cayenne unless you're really trying for a spicy dish here) to taste.
+  - Kill the heat. Dump in your huge pile of cheese you've grated yourself and whisk until fully combined.
 - In a greased casserole dish, combine drained pasta with cheese sauce. Make sure all the pasta is nicely coated.
 - Cover the cheesy pasta mixture with the cheese you've reserved for crust.
 - Cover _that_ with the panko.
