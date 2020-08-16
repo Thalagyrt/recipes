@@ -10,7 +10,8 @@ The core of this recipe originally comes from *[Martha Stewart Living Cookbook: 
 - cayenne pepper
 - 9 oz cheddar, as sharp as you can get, grated
 - 4 oz Gruyère, grated
-- Additional grated cheese of your preference to top
+- additional grated cheese of your preference to top
+- panko
 - 1 lb pasta in your favorite sauce-grabbing shape; elbow macaroni is the classic choice, I like small shells.
 - green onions, sliced thin for garnish
 
