@@ -36,6 +36,7 @@
     * [baked-tortellini](./main-courses/pasta/baked-tortellini.md)
     * [chicken-cacciatore](./main-courses/pasta/chicken-cacciatore.md)
     * [four-cheese-stuffed-shells](./main-courses/pasta/four-cheese-stuffed-shells.md)
+    * [macaroni-and-cheese](./main-courses/pasta/macaroni-and-cheese.md)
     * [sage-squash-pasta](./main-courses/pasta/sage-squash-pasta.md)
     * [spinach-artichoke-stuffed-shells](./main-courses/pasta/spinach-artichoke-stuffed-shells.md)
     * [summer-vegetable-primavera](./main-courses/pasta/summer-vegetable-primavera.md)
