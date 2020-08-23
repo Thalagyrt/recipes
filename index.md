@@ -24,6 +24,7 @@
     * [beef-stir-fry](./main-courses/meat/beef-stir-fry.md)
     * [carnitas](./main-courses/meat/carnitas.md)
     * [crockpot-chicken-pot-pie](./main-courses/meat/crockpot-chicken-pot-pie.md)
+    * [ginger-scallion-meatballs](./main-courses/meat/ginger-scallion-meatballs.md)
     * [irish-stew](./main-courses/meat/irish-stew.md)
     * [lemon-herb-chicken](./main-courses/meat/lemon-herb-chicken.md)
     * [provencal-short-ribs-with-olives-and-herbs](./main-courses/meat/provencal-short-ribs-with-olives-and-herbs.md)
@@ -48,3 +49,5 @@
 * sauces
   * [habanero-and-pineapple](./sauces/habanero-and-pineapple.md)
   * [pesto](./sauces/pesto.md)
+* sides
+  * [lemon-farro](./main-courses/sides/lemon-farro.md)
