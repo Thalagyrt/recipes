@@ -50,5 +50,6 @@
 * sauces
   * [habanero-and-pineapple](./sauces/habanero-and-pineapple.md)
   * [pesto](./sauces/pesto.md)
+  * [thai-red-curry-paste](./sauces/thai-red-curry-paste.md)
 * sides
   * [lemon-farro](./sides/lemon-farro.md)
