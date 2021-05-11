@@ -5,6 +5,7 @@
   * [camembert-rosemary-hedgehog-bread](./appetizers/camembert-rosemary-hedgehog-bread.md)
   * [cheesy-beer-bread](./appetizers/cheesy-beer-bread.md)
   * [garlic-parmesan-chicken-tenders](./appetizers/garlic-parmesan-chicken-tenders.md)
+  * [homemade-naan](./appetizers/homemade-naan.md)
   * [pastry-pinwheels](./appetizers/pastry-pinwheels.md)
   * [pesto-garlic-bread](./appetizers/pesto-garlic-bread.md)
 * breakfast
