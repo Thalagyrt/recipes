@@ -10,6 +10,7 @@
 * breakfast
   * [bacon-egg-cheese-hash](./breakfast/bacon-egg-cheese-hash.md)
   * [orange-chocolate-scones](./breakfast/orange-chocolate-scones.md)
+  * [raspberry-muffins](./breakfast/raspberry-muffins.md)
   * [scrambled-eggs](./breakfast/scrambled-eggs.md)
   * [yeasted-waffles](./breakfast/yeasted-waffles.md)
 * desserts
@@ -50,4 +51,4 @@
   * [habanero-and-pineapple](./sauces/habanero-and-pineapple.md)
   * [pesto](./sauces/pesto.md)
 * sides
-  * [lemon-farro](./main-courses/sides/lemon-farro.md)
+  * [lemon-farro](./sides/lemon-farro.md)
