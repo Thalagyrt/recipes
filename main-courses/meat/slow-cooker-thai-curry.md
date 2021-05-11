@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 tablespoons [thai red curry paste](./sauces/thai-red-curry-paste.md). More to taste
+- 2 tablespoons [thai red curry paste](/sauces/thai-red-curry-paste.md). More to taste
 - 2 garlic cloves minced
 - 2 12 ounce cans of coconut milk
 - 2 cups chicken stock
