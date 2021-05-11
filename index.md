@@ -25,6 +25,7 @@
     * [beef-and-broccoli](./main-courses/meat/beef-and-broccoli.md)
     * [beef-stir-fry](./main-courses/meat/beef-stir-fry.md)
     * [carnitas](./main-courses/meat/carnitas.md)
+    * [chicken-florentine](./main-courses/meat/chicken-florentine.md)
     * [crockpot-chicken-pot-pie](./main-courses/meat/crockpot-chicken-pot-pie.md)
     * [ginger-scallion-meatballs](./main-courses/meat/ginger-scallion-meatballs.md)
     * [irish-stew](./main-courses/meat/irish-stew.md)
