@@ -12,7 +12,7 @@
 - 4 tablespoons cornstarch
 - 4 tablespoons water
 - 2 heads of broccoli, cut into florets
-- (optional) 2 zucchini
+- (optional) 1 zucchini
 - (optional) 2 large carrots
 
 For serving:
