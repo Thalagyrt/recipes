@@ -6,7 +6,6 @@
 - 1/4 tsp salt
 - big pinch pepper
 - 2 eggs
-- 1/8 tsp salt
 - 1/2 tsp olive oil
 - 1/2 cup grated parmesan cheese
 - 1/2 cup plain bread crumbs
